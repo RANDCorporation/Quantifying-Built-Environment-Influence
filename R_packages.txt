@@ -1,0 +1,8 @@
+# R=3.6.3
+# platform: win-64
+
+plyr=1.8.6
+dplyr=1.0.6
+data.table=1.14.2
+mice=3.8.0
+psych=1.9.12.31
